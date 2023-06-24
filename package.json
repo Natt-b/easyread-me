@@ -1,0 +1,23 @@
+{
+  "name": "easyread-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natt-b/easyread-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natt-b/easyread-me/issues"
+  },
+  "homepage": "https://github.com/Natt-b/easyread-me#readme",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  }
+}
