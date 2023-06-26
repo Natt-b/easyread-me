@@ -18,5 +18,5 @@ The aim is to allow the user to generate a readme file using the terminal.
 https://drive.google.com/file/d/16d2YrkRtNHb7Za74HJnlHycJsFKoImCM/view 
 
 #### link to github
-https://github.com/Natt-b/Node-readme.git 
+https://github.com/Natt-b/easyread-me.git 
 
